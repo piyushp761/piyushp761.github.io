@@ -1,7 +1,7 @@
 'use strict';
 const CACHE_NAME = 'flutter-app-cache';
 const RESOURCES = {
-  "/assets\AssetManifest.json": "36c3a4999cbecb4a4372d64ff31ac408",
+  "/assets\AssetManifest.json": "f069cefe0955a15b6461d59c712eb990",
 "/assets\assets\about.html": "cca535e84bb3f1ad20cd1423638d0253",
 "/assets\assets\anim.json": "9cad20b149b677369e1f9c1e008bd6a9",
 "/assets\assets\animations\emoji_shock.json": "46cfab6f39130106d8d19adcd690266f",
@@ -34,6 +34,7 @@ const RESOURCES = {
 "/assets\assets\twitter.png": "8f35a40403a84631c4125c4f1859c7a6",
 "/assets\assets\works\creditcard.png": "a6ee2e46d3a422cd0e24320d21c29155",
 "/assets\assets\works\hi.png": "046b7be392c260170e57e27544e71278",
+"/assets\assets\works\nationals.png": "53ab25dc46ecb61c6eab7d50cf9eb7dc",
 "/assets\assets\works\totalrecall.png": "acd6043c786c02f96ed39bfe040bef7b",
 "/assets\FontManifest.json": "592290621294619b16740a9d89232ba6",
 "/assets\fonts\MaterialIcons-Regular.ttf": "56d3ffdef7a25659eab6a68a3fbfaf16",
@@ -41,7 +42,7 @@ const RESOURCES = {
 "/assets\images\design1.png": "c86ebe346d20d0fe6cfc5d77d03ff4ce",
 "/assets\LICENSE": "cdfa331125a8dd7e9f14690b0519204c",
 "/index.html": "f181025f1ed3eb10c2a853266fa61a46",
-"/main.dart.js": "2db857eed3c3ab7a7c08149ccdd5e611"
+"/main.dart.js": "6a480e9a154227ce8a32a08da25fdc9b"
 };
 
 self.addEventListener('activate', function (event) {
