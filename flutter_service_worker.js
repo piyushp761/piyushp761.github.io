@@ -42,7 +42,7 @@ const RESOURCES = {
 "/assets\images\design1.png": "c86ebe346d20d0fe6cfc5d77d03ff4ce",
 "/assets\LICENSE": "cdfa331125a8dd7e9f14690b0519204c",
 "/index.html": "f181025f1ed3eb10c2a853266fa61a46",
-"/main.dart.js": "58b4e23d6bc83d47744df2c1ff530310"
+"/main.dart.js": "9f5cf4a6bb2dc70884ea2d69dd62603e"
 };
 
 self.addEventListener('activate', function (event) {

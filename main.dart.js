@@ -40254,18 +40254,25 @@ aJ:function(){return new X.qs(C.p)}}
 X.qs.prototype={
 KG:function(){u.u2.a(this.c.d8(C.ad)).f.nO()
 this.aF(new X.Oa())},
-L:function(a){var t,s,r,q,p,o,n=null,m=F.c6(a,!1).a,l=M.f6(n,n,n,n,n,n,1/0,n,n,n,1/0),k=N.eS(n,new T.b7(n,n,$.U5(),n),L.c0("",n,n,n),new X.O0()),j=P.aG(50,10,10,10),i=u.u2,h=i.a(a.d8(C.ad)).f.d?U.bV("assets/moon.png",n,20,20):L.nA(C.k4),g=u.E
-h=T.K4(H.b([k,B.v9(n,j,h,this.gKF(),n)],g),C.ce,C.ie,C.bR)
-h=E.Uk(H.b([],g),C.aK,n,0,new T.ek(C.H,n,n,h,n))
-j=T.yU(C.bz,H.b([L.c0("Hello! I am Piyush Passi - a Software Engineer \nand UX Designer from New Delhi, India.",n,C.aj,1.5)],g),C.lX,C.m,C.fC,20,0)
-k=$.Z5()
-t=T.yU(C.bz,H.b([N.eS(n,new T.b7(n,n,L.nA(C.oP),n),L.c0("Get in touch",A.fI(n,n,n,n,n,n,n,n,n,n,n,n,n,C.aL,n,n,!0,n,n,n,n,n,n),n,1.2),new X.O1()),N.eS(P.aG(50,219,135,255),new T.b7(n,n,L.nA(C.oR),n),L.c0("My Work",A.fI(n,n,n,n,n,n,n,n,n,n,n,n,n,C.aL,n,n,!0,n,n,n,n,n,n),n,1.2),new X.O2(a)),N.eS(n,new T.b7(n,n,L.nA(C.oQ),n),L.c0("R\xe9sum\xe9",A.fI(n,n,n,n,n,n,n,n,n,n,n,n,n,C.aL,n,n,!0,n,n,n,n,n,n),n,1.2),new X.O3())],g),C.dM,C.m,C.bz,0,0)
-s=N.eS(n,new T.b7(20,20,U.bV(i.a(a.d8(C.ad)).f.d?"assets/github_light.png":"assets/github.png",n,n,n),n),L.c0("Github",n,n,n),new X.O4())
-r=N.eS(n,new T.b7(20,20,U.bV(i.a(a.d8(C.ad)).f.d?"assets/behance_light.png":"assets/behance.png",n,n,n),n),L.c0("Behance",n,n,n),new X.O5())
-q=N.eS(n,new T.b7(20,20,U.bV(i.a(a.d8(C.ad)).f.d?"assets/stackoverflow_light.png":"assets/stackoverflow.png",n,n,n),n),L.c0("Stackoverflow",n,n,n),new X.O6())
-p=N.eS(n,new T.b7(20,20,U.bV(i.a(a.d8(C.ad)).f.d?"assets/medium_light.png":"assets/medium.png",n,n,n),n),L.c0("Medium",n,n,n),new X.O7())
-o=N.eS(n,new T.b7(20,20,U.bV(i.a(a.d8(C.ad)).f.d?"assets/instagram_light.png":"assets/instagram.png",n,n,n),n),L.c0("Instagram",n,n,n),new X.O8())
-return T.pq(C.dQ,H.b([l,M.W0(h,E.W6(new T.fr(new V.aJ(10,100,10,100),new T.ek(C.H,n,n,T.S4(H.b([j,new T.b7(n,40,n,n),k,new T.b7(n,40,n,n),t,new T.b7(n,40,n,n),T.yU(C.bz,H.b([s,r,q,p,o,N.eS(n,new T.b7(20,20,U.bV(i.a(a.d8(C.ad)).f.d?"assets/linkedin_light.png":"assets/linkedin.png",n,n,n),n),L.c0("Linkedin",n,n,n),new X.O9())],g),C.dM,C.m,C.fC,20,0),new T.b7(n,40,n,n),T.yU(C.bz,H.b([new K.tT(U.bV("assets/avatar.png",n,n,n).c,100,n),T.S4(H.b([L.c0("About Me",A.fI(n,n,n,n,n,n,n,n,n,n,n,n,n,C.aL,n,n,!0,n,n,n,n,n,n),C.aj,1.5),new T.b7(n,10,n,n),M.f6(n,L.c0("I am a final year Software Engineering student at Delhi Technological Unveristy. I am also a User Experience enthusiast, and have dedicated the last 2 years of my life in learning the art of creating meaningful interactions between human and machine. I also love mathematics and solving problems (of any kind!). When I'm not coding or designing, I can be found trying to solve a Rubik's cube as fast as possible, helping organize a competition for the same and playing video games.",n,n,1.4),n,n,n,n,n,n,n,n,m.a*0.45)],g),C.bD,C.dv,C.bR)],g),C.dM,C.m,C.dL,40,40)],g),C.ce,C.kK,C.bR),n),n)))],g),C.bY)}}
+L:function(a){var t,s,r,q,p,o,n,m,l,k,j,i,h=null,g=F.c6(a,!1).a.a
+g=g>800?g*0.45:g*0.9
+t=M.f6(h,h,h,h,h,h,1/0,h,h,h,1/0)
+s=N.eS(h,new T.b7(h,h,$.U5(),h),L.c0("",h,h,h),new X.O0())
+r=P.aG(50,10,10,10)
+q=u.u2
+p=q.a(a.d8(C.ad)).f.d?U.bV("assets/moon.png",h,20,20):L.nA(C.k4)
+o=u.E
+p=T.K4(H.b([s,B.v9(h,r,p,this.gKF(),h)],o),C.ce,C.ie,C.bR)
+p=E.Uk(H.b([],o),C.aK,h,0,new T.ek(C.H,h,h,p,h))
+r=T.yU(C.bz,H.b([L.c0("Hello! I am Piyush Passi - a Software Engineer \nand UX Designer from New Delhi, India.",h,C.aj,1.5)],o),C.lX,C.m,C.fC,20,0)
+s=$.Z5()
+n=T.yU(C.bz,H.b([N.eS(h,new T.b7(h,h,L.nA(C.oP),h),L.c0("Get in touch",A.fI(h,h,h,h,h,h,h,h,h,h,h,h,h,C.aL,h,h,!0,h,h,h,h,h,h),h,1.2),new X.O1()),N.eS(P.aG(50,219,135,255),new T.b7(h,h,L.nA(C.oR),h),L.c0("My Work",A.fI(h,h,h,h,h,h,h,h,h,h,h,h,h,C.aL,h,h,!0,h,h,h,h,h,h),h,1.2),new X.O2(a)),N.eS(h,new T.b7(h,h,L.nA(C.oQ),h),L.c0("R\xe9sum\xe9",A.fI(h,h,h,h,h,h,h,h,h,h,h,h,h,C.aL,h,h,!0,h,h,h,h,h,h),h,1.2),new X.O3())],o),C.dM,C.m,C.bz,0,0)
+m=N.eS(h,new T.b7(20,20,U.bV(q.a(a.d8(C.ad)).f.d?"assets/github_light.png":"assets/github.png",h,h,h),h),L.c0("Github",h,h,h),new X.O4())
+l=N.eS(h,new T.b7(20,20,U.bV(q.a(a.d8(C.ad)).f.d?"assets/behance_light.png":"assets/behance.png",h,h,h),h),L.c0("Behance",h,h,h),new X.O5())
+k=N.eS(h,new T.b7(20,20,U.bV(q.a(a.d8(C.ad)).f.d?"assets/stackoverflow_light.png":"assets/stackoverflow.png",h,h,h),h),L.c0("Stackoverflow",h,h,h),new X.O6())
+j=N.eS(h,new T.b7(20,20,U.bV(q.a(a.d8(C.ad)).f.d?"assets/medium_light.png":"assets/medium.png",h,h,h),h),L.c0("Medium",h,h,h),new X.O7())
+i=N.eS(h,new T.b7(20,20,U.bV(q.a(a.d8(C.ad)).f.d?"assets/instagram_light.png":"assets/instagram.png",h,h,h),h),L.c0("Instagram",h,h,h),new X.O8())
+return T.pq(C.dQ,H.b([t,M.W0(p,E.W6(new T.fr(new V.aJ(10,100,10,100),new T.ek(C.H,h,h,T.S4(H.b([r,new T.b7(h,40,h,h),s,new T.b7(h,40,h,h),n,new T.b7(h,40,h,h),T.yU(C.bz,H.b([m,l,k,j,i,N.eS(h,new T.b7(20,20,U.bV(q.a(a.d8(C.ad)).f.d?"assets/linkedin_light.png":"assets/linkedin.png",h,h,h),h),L.c0("Linkedin",h,h,h),new X.O9())],o),C.dM,C.m,C.fC,20,0),new T.b7(h,40,h,h),T.yU(C.bz,H.b([new K.tT(U.bV("assets/avatar.png",h,h,h).c,100,h),T.S4(H.b([L.c0("About Me",A.fI(h,h,h,h,h,h,h,h,h,h,h,h,h,C.aL,h,h,!0,h,h,h,h,h,h),C.aj,1.5),new T.b7(h,10,h,h),M.f6(h,L.c0("I am a final year Software Engineering student at Delhi Technological Unveristy. I am also a User Experience enthusiast, and have dedicated the last 2 years of my life in learning the art of creating meaningful interactions between human and machine. I also love mathematics and solving problems (of any kind!). When I'm not coding or designing, I can be found trying to solve a Rubik's cube as fast as possible, helping organize a competition for the same and playing video games.",h,h,1.4),h,h,h,h,h,h,h,h,g)],o),C.bD,C.dv,C.bR)],o),C.dM,C.m,C.dL,40,40)],o),C.ce,C.kK,C.bR),h),h)))],o),C.bY)}}
 X.Oa.prototype={
 $0:function(){var t="https://i.ibb.co/87WGknD/bg-light.jpg"
 if(J.e($.U6(),D.kq(t))){$.RA=D.kq("https://i.ibb.co/f9w1yyn/bg-dark.jpg")
