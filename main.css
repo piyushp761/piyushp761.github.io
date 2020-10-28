@@ -1,0 +1,210 @@
+@import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
+
+
+.container{
+    padding-top: 60px;
+}
+body{
+    color: white;
+    font-family: 'Roboto Slab';
+    background-color: black;
+}
+
+h1{
+    font-size: 36px;
+    font-weight: bold;
+}
+
+h2{
+    font-size: 18px;
+    font-weight: normal;
+}
+
+
+.btn-primary{
+    padding-left: 30px;
+    padding-right: 30px;
+    padding-top: 10px;
+    padding-bottom: 10px;
+    color: #FF4F5B;;
+    background-color: black;
+    border-color: #FF4F5B;
+    border-radius: 0;
+    font-weight: bold;
+}
+
+a{
+    color: #FF4F5B;
+}
+a:link {
+    text-decoration: none;
+}
+
+.a:hover{
+    text-decoration: none;
+}
+
+a:visited {
+  text-decoration: none;
+}
+
+
+a:hover {
+  text-decoration: none;
+}
+
+
+a:active {
+  text-decoration: none;
+}
+.navbar-toggler{
+    border-radius: 0rem;
+    border: 0px;
+}
+
+.navbar-toggler-icon{
+    border-radius: 0rem;
+    border: 0px;
+}
+
+.navbar-dark .navbar-toggler {
+    color: transparent;
+    border-color: transparent;
+}
+
+.navbar-dark .navbar-toggler-icon {
+    background-image: url(menu.svg);
+}
+
+.navbar-dark .navbar-brand {
+    color: #FF4F5B;
+}
+
+.navbar-expand-md .navbar-nav .nav-link {
+    padding-right: 60px;
+    padding-left: .5rem;
+}
+
+.navbar-dark .navbar-nav .nav-link {
+    color: #FF4F5B;
+}
+.bg-dark{
+    background-color: black!important;
+}
+
+.link-icons {
+    padding-top: 30px;
+}
+
+.img-icons{
+    padding-right: 20px;
+}
+
+.img-top-icon{
+    padding-right: 0px;
+}
+
+
+.small-container{
+    color: black;
+    background-color: white!important;
+    margin-left: 2rem;
+    margin-right: 2rem;
+    padding-left: 2rem;
+    padding-right: 2rem;
+    padding-top: 30px;
+    padding-bottom: 80px;
+}
+
+.bottom-left {
+    position: absolute;
+    bottom: 8px;
+    left: 16px;
+  }
+
+#Projimg {
+    background-image:
+    linear-gradient(to bottom, rgba(245, 246, 252, 0), black);
+    width: 30rem;
+    height: 15rem;
+    object-fit: cover;
+    background-size: cover;
+    color: white;
+}
+
+.w-100{
+    height: 15rem;
+    object-fit: cover;
+    margin-top: 10px;
+    margin-bottom: 4px;
+}
+
+.w-100:hover {
+    opacity: .5;
+}
+
+.caption-text{
+    color: black;
+    font-size: 18px;
+    margin-left: 5px;
+    
+}
+.caption-text:hover{
+    color:#007bff;
+}
+
+.about-text{
+    
+    color: #4D4D4D;
+    font-size: 14px;
+    font-weight: lighter;
+    margin-left: 5px;
+    margin-bottom: 30px;
+}
+
+
+.portfolio{
+    padding-top: 80px;
+}
+#search-icon {
+    fill:white;
+}
+
+#myBtn {
+    display: none;
+    position: fixed;
+    bottom: 20px;
+    right: 30px;
+    z-index: 99;
+    border: none;
+    outline: none;
+    background-color: #4D4D4D00;
+    color: white;
+    cursor: pointer;
+    padding: 15px;
+  }
+
+  #myBtn:hover {
+    background-color: #4D4D4D;
+  }
+
+.project-image{
+    max-width:100%;
+    max-height:100%;
+}
+
+.illustration-group-image{
+    max-width:100%;
+    max-height:100%;
+    margin-bottom: 20px;
+}
+
+.daily-image{
+    max-width:100%;
+    max-height:100%;
+    margin-bottom: 40px;
+}
+
+.give-margin{
+    margin-bottom: 60px;
+}
