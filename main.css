@@ -10,6 +10,10 @@ body{
     background-color: black;
 }
 
+p{
+    opacity: .75;
+}
+
 h1{
     font-size: 36px;
     font-weight: bold;
